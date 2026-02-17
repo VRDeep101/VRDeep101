@@ -1,4 +1,4 @@
-[![MasterHead](images/RiskyBG1.gif)](images/RiskyBG1.gif)
+[![MasterHead](images/RiskyBG2.gif)](images/RiskyBG2.gif)
 <h1 align="center">👋🏻Hey! 𝐑𝐈𝐒𝐊𝐘 Here</h1>
 <h3 align="center">A PASSIONATE DEVELOPER & DESIGNER</h3>
 
