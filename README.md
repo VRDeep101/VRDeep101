@@ -13,8 +13,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vrdeep101&" alt="vrdeep101" /></p>
 <h1 align="center">👋🏻Hey RīsҠy Here</h1>
