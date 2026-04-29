@@ -4,7 +4,7 @@
 
 ---
 
-## <h2 align="center">🤝 CONNECT WITH ME</h2>
+## <h2 align="center">CONNECT WITH ME</h2>
 
 <div align="center">
 
