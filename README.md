@@ -4,7 +4,7 @@
 
 ---
 
-## 🤝 Connect With Me
+## <h2 align="center">🤝 CONNECT WITH ME</h2>
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 </div>
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Full+Stack+Dev+%26+CS+Student;Building+the+future%2C+one+commit+at+a+time;Teaching+Machines+to+Think;Code+.+Break+.+Repeat" alt="Typing SVG" />
 </p>
 
