@@ -17,7 +17,7 @@
 
 </div>
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Full+Stack+Dev+%26+CS+Student;Building+the+future%2C+one+commit+at+a+time;Teaching+Machines+to+Think;Code+.+Break+.+Repeat" alt="Typing SVG" />
 </p>
 
@@ -46,7 +46,7 @@
 
 ## 💾 Databases & Storage
 
-<div align="center">
+<div align="left">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=4479A1)
@@ -59,7 +59,7 @@
 
 ## ☁️ Cloud & DevOps
 
-<div align="center">
+<div align="left">
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=FF9900)
 ![Google_Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white&labelColor=4285F4)
@@ -73,7 +73,7 @@
 
 ## 🤖 AI & Machine Learning
 
-<div align="center">
+<div align="left">
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=FF6F00)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white&labelColor=5C3EE8)
@@ -88,7 +88,7 @@
 
 ## ⚙️ Backend & Server
 
-<div align="center">
+<div align="left">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodejs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -101,7 +101,7 @@
 
 ## 📱 Mobile Development
 
-<div align="center">
+<div align="left">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React_Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -112,7 +112,7 @@
 
 ## 🎨 Design & Creative Tools
 
-<div align="center">
+<div align="left">
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
@@ -127,7 +127,7 @@
 
 ## 🔧 Tools & Platforms
 
-<div align="center">
+<div align="left">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -145,7 +145,7 @@
 "The quieter you become, the more you are able to hear." — Kali Linux
 ```
 
-<div align="center">
+<div align="left">
 
 ![Kali_Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp_Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
