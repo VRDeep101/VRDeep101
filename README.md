@@ -1,5 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213844328-562baf38-c4b1-42c1-a188-abda2cb86be6.gif)](https://github.com/VRDeep101)
-
+[![MasterHead](images/RiskyBG2.gif)](images/RiskyBG2.gif)
 <h1 align="center">👋 Hey! I'm <b>RISKY</b></h1>
 <h3 align="center">🚀 Full Stack Developer | UI/UX Designer | AI Enthusiast</h3>
 
