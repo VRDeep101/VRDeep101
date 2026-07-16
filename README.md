@@ -1,4 +1,4 @@
-[![MasterHead](images/RiskyBG2.gif)](images/RiskyBG2.gif)
+[![MasterHead](images/RiskyBG2.gif )](images/RiskyBG2.gif)
 <h1 align="center">👋 Hey! I'm <b>Ɍi̅ʂҠy神</b></h1>
 <h3 align="center">🚀 Full Stack Developer | UI/UX Designer | AI Enthusiast</h3>
 
@@ -9,7 +9,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/risky07)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/krazybusterz)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](youtube.com/channel/UCCmV-kitL_IWcHumUqStt4w)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/KrazyBusterZ07)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Risky07/)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/KrazyBusterZ/)
