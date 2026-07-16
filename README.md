@@ -1,5 +1,5 @@
 [![MasterHead](images/RiskyBG2.gif)](images/RiskyBG2.gif)
-<h1 align="center">👋 Hey! I'm <b>RISKY</b></h1>
+<h1 align="center">👋 Hey! I'm <b>Ɍi̅ʂҠy神</b></h1>
 <h3 align="center">🚀 Full Stack Developer | UI/UX Designer | AI Enthusiast</h3>
 
 ---
